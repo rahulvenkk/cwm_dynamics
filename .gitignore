@@ -8,6 +8,7 @@ __pycache__/
 *.idea
 *.iml
 *.xml
+.idea
 # Distribution / packaging
 .Python
 build/
